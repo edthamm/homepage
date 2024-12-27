@@ -14,7 +14,7 @@ Friedensstraße 6
 04155 Leipzig
 
 Contact:
-imprint-34902~at~crashd.co
+imprint~at~thamm.cloud
 ```
 
 # Haftungsausschluss
@@ -48,10 +48,10 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 Eduard Thamm
 Friedensstraße 6
 04155 Leipzig
-imprint-34902~at~crashd.co
+imprint~at~thamm.cloud
 Impressum siehe oben.
 
-Kontakt Datenschutzbeauftragter: imprint-34902~at~crashd.co
+Kontakt Datenschutzbeauftragter: imprint~at~thamm.cloud
 
 ## Arten der verarbeiteten Daten:
 
