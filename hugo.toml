@@ -82,6 +82,12 @@ weight = 2
 url = "https://github.com/edthamm"
 
 [[params.social]]
+name = "GitHub Work"
+icon = "fa-brands fa-square-github fa-2x"
+weight = 2
+url = "https://github.com/eduardOrthopy"
+
+[[params.social]]
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
 weight = 3

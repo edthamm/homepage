@@ -20,6 +20,9 @@ bin-release/
 # Hugo
 public/
 
+# Hugo generated resource gen
+resources/_gen/
+
 # Backup Files
 *.markdown~
 *.md~
