@@ -10,8 +10,9 @@ Angaben gemäß § 5 TMG
 
 ```
 Eduard Thamm
-Friedensstraße 6
-04155 Leipzig
+c/o COCENTER
+Koppoldstr. 1
+86551 Aichach
 
 Contact:
 imprint~at~thamm.cloud
