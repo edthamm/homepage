@@ -103,9 +103,13 @@ languageName = ":uk:"
 
 [[languages.en.menu.main]]
 name = "Talks"
-weight = 2
+weight = 1
 url = "talks/"
 
+[[languages.en.menu.main]]
+name = "Library"
+weight = 2
+url = "library/"
 
 # [[languages.en.menu.main]]
 # name = "About"
