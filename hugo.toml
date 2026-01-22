@@ -14,8 +14,8 @@ noClasses = false
 [params]
 author = "Eduard Thamm"
 description = "Eduard's personal website"
-keywords = "developer,personal"
-info = ["Security","DevOps","Development"]
+keywords = "engineer,personal,tech lead,staff+"
+info = ["Architecture","Reliability","Leadership"]
 avatarURL = "./me.jpg"
 dateFormat = "January 2, 2006"
 since = 2018
@@ -96,10 +96,16 @@ url = "https://www.linkedin.com/in/ethamm"
 [languages.en]
 languageName = ":uk:"
 
+# [[languages.en.menu.main]]
+# name = "Blog"
+# weight = 1
+# url = "posts/"
+
 [[languages.en.menu.main]]
 name = "Talks"
-weight = 1
+weight = 2
 url = "talks/"
+
 
 # [[languages.en.menu.main]]
 # name = "About"
