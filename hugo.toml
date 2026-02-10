@@ -111,10 +111,10 @@ name = "Library"
 weight = 2
 url = "library/"
 
-# [[languages.en.menu.main]]
-# name = "About"
-# weight = 2
-# url = "about/"
+[[languages.en.menu.main]]
+name = "About"
+weight = 3
+url = "about/"
 
 # [[languages.en.menu.main]]
 # name = "Projects"
