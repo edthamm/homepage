@@ -1,3 +1,10 @@
++++
+title = "The Library"
+description = "Books I tend to reference."
+aliases = ["library", "reading-list", "books", "thinking"]
+author = "Eduard Thamm"
++++
+
 # The Library
 
 I tend to think of books as long-form conversations.
