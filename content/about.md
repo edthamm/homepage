@@ -4,8 +4,6 @@ description = "Information about Eduard."
 author = "Eduard Thamm"
 +++
 
-# About
-
 My background is in building and operating long-lived software systems, usually in regulated or reliability-sensitive domains.
 My work sits at the intersection of engineering, operations, and security in environments shaped by constraints, both real and imagined.
 

@@ -5,8 +5,6 @@ aliases = ["library", "reading-list", "books", "thinking"]
 author = "Eduard Thamm"
 +++
 
-# The Library
-
 I tend to think of books as long-form conversations.
 Someone invested time and effort to write about something they care about, and I chose to spend time with their thoughts on the topic.
 Some of the books below sharpened how I reason about systems, others about failure, risk,
