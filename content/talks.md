@@ -21,7 +21,7 @@ In this talk, I look at how to make architectural decisions when those constrain
 
 [Watch on YouTube](https://youtu.be/rFd8ghVirv8?si=RC0FaLK-gTN-Ltyg) · [PyCon DE talk Page](https://2026.pycon.de/talks/ZLRFR9/)
 
-**Why AppSec Fails at Scale (and How to Fix It)**
+**Why AppSec Fails at Scale (and How to Fix It)**\
 _OWASP Global AppSec Vienna 2026_
 
 Application security rarely fails because teams do not care about security. More often, it fails because security practices do not scale with the number of developers, systems, and decisions an organization has to make.
